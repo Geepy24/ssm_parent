@@ -10,4 +10,16 @@
   <build>
   	<finalName>MyBlog</finalName>
   </build>
+  <dependencies>
+  	<dependency>
+  		<groupId>cn.geepy</groupId>
+  		<artifactId>geepy_dao</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>cn.geepy</groupId>
+  		<artifactId>geepy_service</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>

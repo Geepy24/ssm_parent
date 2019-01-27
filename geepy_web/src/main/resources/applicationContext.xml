@@ -18,7 +18,9 @@
 <!-- 引入其他spring配置文件 -->
 	<import resource="applicationContext-dao.xml" />
 	<import resource="applicationContext-service.xml" />
-
+	<import resource="applicationContext-transaction.xml" />
+	
+	
 <!-- 开启Spring注解支持 -->
 	<context:component-scan base-package="cn.geepy.blog"></context:component-scan>
 

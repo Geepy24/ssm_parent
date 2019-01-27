@@ -193,6 +193,11 @@
 			<artifactId>jackson-databind</artifactId>
 			<version>2.9.7</version>
 		</dependency>
+		<dependency>
+			<groupId>org.freemarker</groupId>
+			<artifactId>freemarker</artifactId>
+			<version>2.3.18</version>
+		</dependency>
 
 
 	</dependencies>
@@ -224,7 +229,7 @@
 				</includes>
 			</resource>
 		</resources>
-		
+
 	</build>
 
 

@@ -6,4 +6,11 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>geepy_service</artifactId>
+  <dependencies>
+  	<dependency>
+  		<groupId>cn.geepy</groupId>
+  		<artifactId>geepy_dao</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
