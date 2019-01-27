@@ -7,4 +7,7 @@
   </parent>
   <artifactId>geepy_web</artifactId>
   <packaging>war</packaging>
+  <build>
+  	<finalName>MyBlog</finalName>
+  </build>
 </project>

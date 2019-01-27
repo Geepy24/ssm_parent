@@ -224,7 +224,7 @@
 				</includes>
 			</resource>
 		</resources>
-		<finalName>geepy</finalName>
+		
 	</build>
 
 
